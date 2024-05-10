@@ -1,0 +1,1 @@
+# Notification framework for PHP-magpie

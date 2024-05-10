@@ -1,0 +1,27 @@
+{
+  "name": "xirelogy/magtools-notify",
+  "description": "A notification framework",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "JingXiang Tou",
+      "email": "jx@tou.st"
+    }
+  ],
+  "require": {
+    "xirelogy/magpie-core": "^0.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "MagpieTools\\Notify\\": "src"
+    }
+  },
+  "extra": {
+    "magpie": {
+      "classes": [
+        "MagpieTools\\Notify\\System\\NotifySetup"
+      ]
+    }
+  }
+}

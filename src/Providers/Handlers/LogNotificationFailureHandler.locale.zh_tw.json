@@ -1,0 +1,7 @@
+{
+  "Unexpected exception while sending notification": "在發送通知時，遭遇未預料的錯誤",
+  "Unexpected exception while sending notification of {{0}}: {{1}}": "在發送通知時，遭遇未預料的{{0}}錯誤：{{1}}",
+  ".. Caused by exception": ".. 由錯誤造成",
+  ".. Caused by exception: {{0}}": ".. 由錯誤造成：{{0}}",
+  "": ""
+}
